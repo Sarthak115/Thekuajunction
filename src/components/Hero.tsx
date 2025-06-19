@@ -53,7 +53,7 @@ const Hero: React.FC = () => {
     {
       text: 'Traditional Taste',
       images: [
-        '/images/thekua',
+        'https://www.google.com/imgres?q=thekua&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9c%2FThekua_-_Chhath_Festival_-_Kolkata_2013-11-09_4316.JPG%2F1200px-Thekua_-_Chhath_Festival_-_Kolkata_2013-11-09_4316.JPG&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThekua&docid=feIYVUpjHCoy_M&tbnid=yRqf3NW7kgMQfM&vet=12ahUKEwiDkdGTy_2NAxW73TQHHaPRGLkQM3oECGcQAA..i&w=1200&h=798&hcb=2&ved=2ahUKEwiDkdGTy_2NAxW73TQHHaPRGLkQM3oECGcQAA',
         '/images/thekua1',
         '/images/thekua2'
       ]
