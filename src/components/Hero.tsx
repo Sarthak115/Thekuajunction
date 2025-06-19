@@ -53,25 +53,25 @@ const Hero: React.FC = () => {
     {
       text: 'Traditional Taste',
       images: [
-        'https://www.google.com/imgres?q=thekua&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9c%2FThekua_-_Chhath_Festival_-_Kolkata_2013-11-09_4316.JPG%2F1200px-Thekua_-_Chhath_Festival_-_Kolkata_2013-11-09_4316.JPG&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThekua&docid=feIYVUpjHCoy_M&tbnid=yRqf3NW7kgMQfM&vet=12ahUKEwiDkdGTy_2NAxW73TQHHaPRGLkQM3oECGcQAA..i&w=1200&h=798&hcb=2&ved=2ahUKEwiDkdGTy_2NAxW73TQHHaPRGLkQM3oECGcQAA',
-        '/images/thekua1',
-        '/images/thekua2'
+        'https://images.pexels.com/photos/5864245/pexels-photo-5864245.jpeg?auto=compress&cs=tinysrgb&w=400',
+        'https://images.pexels.com/photos/4198043/pexels-photo-4198043.jpeg?auto=compress&cs=tinysrgb&w=400',
+        'https://images.pexels.com/photos/5718050/pexels-photo-5718050.jpeg?auto=compress&cs=tinysrgb&w=400'
       ]
     },
     {
       text: 'Pure Ingredients',
       images: [
-        '/images/jaggery',
-        '/images/coconut',
-        '/images/wheat'
+        'https://images.pexels.com/photos/4198170/pexels-photo-4198170.jpeg?auto=compress&cs=tinysrgb&w=400',
+        'https://images.pexels.com/photos/6824505/pexels-photo-6824505.jpeg?auto=compress&cs=tinysrgb&w=400',
+        'https://images.pexels.com/photos/5946071/pexels-photo-5946071.jpeg?auto=compress&cs=tinysrgb&w=400'
       ]
     },
     {
       text: 'Handmade with Love',
       images: [
-        '/images/handmade1',
-        '/images/handmade2',
-        'images/handmade3'
+        'https://images.pexels.com/photos/5864032/pexels-photo-5864032.jpeg?auto=compress&cs=tinysrgb&w=400',
+        'https://images.pexels.com/photos/4198021/pexels-photo-4198021.jpeg?auto=compress&cs=tinysrgb&w=400',
+        'https://images.pexels.com/photos/5718481/pexels-photo-5718481.jpeg?auto=compress&cs=tinysrgb&w=400'
       ]
     }
   ];
