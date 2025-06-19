@@ -53,25 +53,25 @@ const Hero: React.FC = () => {
     {
       text: 'Traditional Taste',
       images: [
-        'images/thekua',
-        'images/thekua1',
-        'images/thekua2'
+        '/images/thekua',
+        '/images/thekua1',
+        '/images/thekua2'
       ]
     },
     {
       text: 'Pure Ingredients',
       images: [
-        'https://images.pexels.com/photos/4198170/pexels-photo-4198170.jpeg?auto=compress&cs=tinysrgb&w=400',
-        'https://images.pexels.com/photos/6824505/pexels-photo-6824505.jpeg?auto=compress&cs=tinysrgb&w=400',
-        'https://images.pexels.com/photos/5946071/pexels-photo-5946071.jpeg?auto=compress&cs=tinysrgb&w=400'
+        '/images/jaggery',
+        '/images/coconut',
+        '/images/wheat'
       ]
     },
     {
       text: 'Handmade with Love',
       images: [
-        'https://images.pexels.com/photos/5864032/pexels-photo-5864032.jpeg?auto=compress&cs=tinysrgb&w=400',
-        'https://images.pexels.com/photos/4198021/pexels-photo-4198021.jpeg?auto=compress&cs=tinysrgb&w=400',
-        'https://images.pexels.com/photos/5718481/pexels-photo-5718481.jpeg?auto=compress&cs=tinysrgb&w=400'
+        '/images/handmade1',
+        '/images/handmade2',
+        'images/handmade3'
       ]
     }
   ];
