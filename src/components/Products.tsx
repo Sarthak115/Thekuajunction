@@ -37,7 +37,6 @@ const Products: React.FC = () => {
       name: 'Classic Jaggery Thekua',
       price: '₹200 / 500g',
       image:  'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Thekua_-_Chhath_Festival_-_Kolkata_2013-11-09_4316.JPG/1200px-Thekua_-_Chhath_Festival_-_Kolkata_2013-11-09_4316.JPG',
-,
       hoverImage: 'https://c.ndtvimg.com/2018-11/1ivb9hq_thekua_625x300_13_November_18.jpg'
     },
     {
