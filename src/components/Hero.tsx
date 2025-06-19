@@ -53,9 +53,9 @@ const Hero: React.FC = () => {
     {
       text: 'Traditional Taste',
       images: [
-        'https://images.pexels.com/photos/5864245/pexels-photo-5864245.jpeg?auto=compress&cs=tinysrgb&w=400',
-        'https://images.pexels.com/photos/4198043/pexels-photo-4198043.jpeg?auto=compress&cs=tinysrgb&w=400',
-        'https://images.pexels.com/photos/5718050/pexels-photo-5718050.jpeg?auto=compress&cs=tinysrgb&w=400'
+        'images/thekua',
+        'images/thekua1',
+        'images/thekua2'
       ]
     },
     {
